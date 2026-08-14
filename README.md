@@ -4,9 +4,9 @@
 
 ## 1. Descripción
 
-Este repositorio contiene el desarrollo de ejercicios prácticos orientados al aprendizaje y aplicación de conceptos fundamentales del lenguaje Python.
+Este repositorio contiene el desarrollo de ejercicios prácticos orientados al aprendizaje e implementación de conceptos fundamentales en Python.
 
-Cada cuaderno contiene el desarrollo de las actividades propuestas, la documentación correspondiente y la evidencia de ejecución de los ejercicios. Adicionalmente, se incluyen conclusiones sobre los principales conceptos trabajados en cada cuaderno.
+Cada notebook contiene el desarrollo de las actividades propuestas, la documentación correspondiente y la evidencia de ejecución de los ejercicios. Adicionalmente, se incluyen conclusiones sobre los principales conceptos trabajados en cada notebook.
 
 ## 2. Contenido
 
